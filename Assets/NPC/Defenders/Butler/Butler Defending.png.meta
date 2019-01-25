@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 9cb5476c356c7bc4ba9d86f03eee60f9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_0
+    21300002: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_1
+    21300004: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_2
+    21300006: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_3
+    21300008: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_4
+    21300010: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_5
+    21300012: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_6
+    21300014: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_7
+    21300016: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_8
+    21300018: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_9
+    21300020: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_10
+    21300022: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_11
+    21300024: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_12
+    21300026: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_13
+    21300028: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_14
+    21300030: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_15
+    21300032: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_16
+    21300034: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_17
+    21300036: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_18
+    21300038: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_19
+    21300040: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_20
+    21300042: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_21
+    21300044: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_22
+    21300046: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_23
+    21300048: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_24
+    21300050: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_25
+    21300052: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_26
+    21300054: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_27
+    21300056: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_28
+    21300058: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_29
+    21300060: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_30
+    21300062: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_31
+    21300064: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_32
+    21300066: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_33
+    21300068: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_34
+    21300070: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_35
+    21300072: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_36
+    21300074: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_37
+    21300076: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_38
+    21300078: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_39
+    21300080: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_40
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333298
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 930
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 930
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 930
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_4
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 930
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_5
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 930
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 775
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 775
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 775
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_9
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 775
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_10
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 775
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_11
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 775
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 620
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 620
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_15
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 620
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_16
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 620
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 620
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 465
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 465
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 465
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_22
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 465
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_23
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 465
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 310
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_26
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 310
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_27
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 310
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_28
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 310
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_29
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 310
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 155
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_32
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 155
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_33
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 155
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_34
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 155
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_35
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 155
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_38
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_39
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bag_butler_accessory_10_bod_body6_closeArm_10_closeLeg_9_face_face9_farArm_10_farLeg_11_skull_skull22_x1_walk2_png_1354839406_40
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

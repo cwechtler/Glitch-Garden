@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 7cda5b6b380c6b3438d4deb837f14b28
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_chicken__x1_walk_png_1354830385_0
+    21300002: npc_chicken__x1_walk_png_1354830385_1
+    21300004: npc_chicken__x1_walk_png_1354830385_2
+    21300006: npc_chicken__x1_walk_png_1354830385_3
+    21300008: npc_chicken__x1_walk_png_1354830385_4
+    21300010: npc_chicken__x1_walk_png_1354830385_5
+    21300012: npc_chicken__x1_walk_png_1354830385_6
+    21300014: npc_chicken__x1_walk_png_1354830385_7
+    21300016: npc_chicken__x1_walk_png_1354830385_8
+    21300018: npc_chicken__x1_walk_png_1354830385_9
+    21300020: npc_chicken__x1_walk_png_1354830385_10
+    21300022: npc_chicken__x1_walk_png_1354830385_11
+    21300024: npc_chicken__x1_walk_png_1354830385_12
+    21300026: npc_chicken__x1_walk_png_1354830385_13
+    21300028: npc_chicken__x1_walk_png_1354830385_14
+    21300030: npc_chicken__x1_walk_png_1354830385_15
+    21300032: npc_chicken__x1_walk_png_1354830385_16
+    21300034: npc_chicken__x1_walk_png_1354830385_17
+    21300036: npc_chicken__x1_walk_png_1354830385_18
+    21300038: npc_chicken__x1_walk_png_1354830385_19
+    21300040: npc_chicken__x1_walk_png_1354830385_20
+    21300042: npc_chicken__x1_walk_png_1354830385_21
+    21300044: npc_chicken__x1_walk_png_1354830385_22
+    21300046: npc_chicken__x1_walk_png_1354830385_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333298
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_chicken__x1_walk_png_1354830385_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 330
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 330
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 330
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 330
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_5
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 330
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 220
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 220
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 220
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_10
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 220
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_11
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 220
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 110
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 110
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_15
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 110
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 110
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_17
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 110
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_21
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_22
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_23
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

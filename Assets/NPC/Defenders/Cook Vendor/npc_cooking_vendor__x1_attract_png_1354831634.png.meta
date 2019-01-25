@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: cfea4efbc6947ed4c93c2b6bd75d0fa6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_cooking_vendor__x1_attract_png_1354831634_0
+    21300002: npc_cooking_vendor__x1_attract_png_1354831634_1
+    21300004: npc_cooking_vendor__x1_attract_png_1354831634_2
+    21300006: npc_cooking_vendor__x1_attract_png_1354831634_3
+    21300008: npc_cooking_vendor__x1_attract_png_1354831634_4
+    21300010: npc_cooking_vendor__x1_attract_png_1354831634_5
+    21300012: npc_cooking_vendor__x1_attract_png_1354831634_6
+    21300014: npc_cooking_vendor__x1_attract_png_1354831634_7
+    21300016: npc_cooking_vendor__x1_attract_png_1354831634_8
+    21300018: npc_cooking_vendor__x1_attract_png_1354831634_9
+    21300020: npc_cooking_vendor__x1_attract_png_1354831634_10
+    21300022: npc_cooking_vendor__x1_attract_png_1354831634_11
+    21300024: npc_cooking_vendor__x1_attract_png_1354831634_12
+    21300026: npc_cooking_vendor__x1_attract_png_1354831634_13
+    21300028: npc_cooking_vendor__x1_attract_png_1354831634_14
+    21300030: npc_cooking_vendor__x1_attract_png_1354831634_15
+    21300032: npc_cooking_vendor__x1_attract_png_1354831634_16
+    21300034: npc_cooking_vendor__x1_attract_png_1354831634_17
+    21300036: npc_cooking_vendor__x1_attract_png_1354831634_18
+    21300038: npc_cooking_vendor__x1_attract_png_1354831634_19
+    21300040: npc_cooking_vendor__x1_attract_png_1354831634_20
+    21300042: npc_cooking_vendor__x1_attract_png_1354831634_21
+    21300044: npc_cooking_vendor__x1_attract_png_1354831634_22
+    21300046: npc_cooking_vendor__x1_attract_png_1354831634_23
+    21300048: npc_cooking_vendor__x1_attract_png_1354831634_24
+    21300050: npc_cooking_vendor__x1_attract_png_1354831634_25
+    21300052: npc_cooking_vendor__x1_attract_png_1354831634_26
+    21300054: npc_cooking_vendor__x1_attract_png_1354831634_27
+    21300056: npc_cooking_vendor__x1_attract_png_1354831634_28
+    21300058: npc_cooking_vendor__x1_attract_png_1354831634_29
+    21300060: npc_cooking_vendor__x1_attract_png_1354831634_30
+    21300062: npc_cooking_vendor__x1_attract_png_1354831634_31
+    21300064: npc_cooking_vendor__x1_attract_png_1354831634_32
+    21300066: npc_cooking_vendor__x1_attract_png_1354831634_33
+    21300068: npc_cooking_vendor__x1_attract_png_1354831634_34
+    21300070: npc_cooking_vendor__x1_attract_png_1354831634_35
+    21300072: npc_cooking_vendor__x1_attract_png_1354831634_36
+    21300074: npc_cooking_vendor__x1_attract_png_1354831634_37
+    21300076: npc_cooking_vendor__x1_attract_png_1354831634_38
+    21300078: npc_cooking_vendor__x1_attract_png_1354831634_39
+    21300080: npc_cooking_vendor__x1_attract_png_1354831634_40
+    21300082: npc_cooking_vendor__x1_attract_png_1354831634_41
+    21300084: npc_cooking_vendor__x1_attract_png_1354831634_42
+    21300086: npc_cooking_vendor__x1_attract_png_1354831634_43
+    21300088: npc_cooking_vendor__x1_attract_png_1354831634_44
+    21300090: npc_cooking_vendor__x1_attract_png_1354831634_45
+    21300092: npc_cooking_vendor__x1_attract_png_1354831634_46
+    21300094: npc_cooking_vendor__x1_attract_png_1354831634_47
+    21300096: npc_cooking_vendor__x1_attract_png_1354831634_48
+    21300098: npc_cooking_vendor__x1_attract_png_1354831634_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333298
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_4
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_9
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_12
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_13
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_14
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_18
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_22
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_23
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_24
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_28
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_29
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_31
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_32
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_33
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_34
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_36
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_37
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_38
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_39
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_41
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_42
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_43
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_44
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_46
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_47
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_48
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_attract_png_1354831634_49
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

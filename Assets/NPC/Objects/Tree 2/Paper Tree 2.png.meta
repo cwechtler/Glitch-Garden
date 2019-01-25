@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 42bfd5ec2d6198341b81d924a26b5eab
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_0
+    21300002: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_1
+    21300004: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_2
+    21300006: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_3
+    21300008: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_4
+    21300010: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_5
+    21300012: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_6
+    21300014: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_7
+    21300016: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_8
+    21300018: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_9
+    21300020: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_10
+    21300022: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_11
+    21300024: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_12
+    21300026: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_13
+    21300028: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_14
+    21300030: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_15
+    21300032: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_16
+    21300034: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_17
+    21300036: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_18
+    21300038: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_19
+    21300040: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_20
+    21300042: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_21
+    21300044: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_22
+    21300046: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333298
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1080
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1080
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_3
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1080
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 864
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 864
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_7
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 864
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 648
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 648
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_11
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 648
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 432
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 432
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_15
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 432
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 216
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_18
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 216
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_19
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 216
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_22
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: paper_tree_needs_pet_false_needs_water_false_paper_count_21_x22_1_png_1354832565_23
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

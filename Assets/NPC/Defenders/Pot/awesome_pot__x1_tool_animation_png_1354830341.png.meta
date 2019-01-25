@@ -1,0 +1,1048 @@
+fileFormatVersion: 2
+guid: e46015e4bc8d88e4989e75308ccebb67
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: awesome_pot__x1_tool_animation_png_1354830341_0
+    21300002: awesome_pot__x1_tool_animation_png_1354830341_1
+    21300004: awesome_pot__x1_tool_animation_png_1354830341_2
+    21300006: awesome_pot__x1_tool_animation_png_1354830341_3
+    21300008: awesome_pot__x1_tool_animation_png_1354830341_4
+    21300010: awesome_pot__x1_tool_animation_png_1354830341_5
+    21300012: awesome_pot__x1_tool_animation_png_1354830341_6
+    21300014: awesome_pot__x1_tool_animation_png_1354830341_7
+    21300016: awesome_pot__x1_tool_animation_png_1354830341_8
+    21300018: awesome_pot__x1_tool_animation_png_1354830341_9
+    21300020: awesome_pot__x1_tool_animation_png_1354830341_10
+    21300022: awesome_pot__x1_tool_animation_png_1354830341_11
+    21300024: awesome_pot__x1_tool_animation_png_1354830341_12
+    21300026: awesome_pot__x1_tool_animation_png_1354830341_13
+    21300028: awesome_pot__x1_tool_animation_png_1354830341_14
+    21300030: awesome_pot__x1_tool_animation_png_1354830341_15
+    21300032: awesome_pot__x1_tool_animation_png_1354830341_16
+    21300034: awesome_pot__x1_tool_animation_png_1354830341_17
+    21300036: awesome_pot__x1_tool_animation_png_1354830341_18
+    21300038: awesome_pot__x1_tool_animation_png_1354830341_19
+    21300040: awesome_pot__x1_tool_animation_png_1354830341_20
+    21300042: awesome_pot__x1_tool_animation_png_1354830341_21
+    21300044: awesome_pot__x1_tool_animation_png_1354830341_22
+    21300046: awesome_pot__x1_tool_animation_png_1354830341_23
+    21300048: awesome_pot__x1_tool_animation_png_1354830341_24
+    21300050: awesome_pot__x1_tool_animation_png_1354830341_25
+    21300052: awesome_pot__x1_tool_animation_png_1354830341_26
+    21300054: awesome_pot__x1_tool_animation_png_1354830341_27
+    21300056: awesome_pot__x1_tool_animation_png_1354830341_28
+    21300058: awesome_pot__x1_tool_animation_png_1354830341_29
+    21300060: awesome_pot__x1_tool_animation_png_1354830341_30
+    21300062: awesome_pot__x1_tool_animation_png_1354830341_31
+    21300064: awesome_pot__x1_tool_animation_png_1354830341_32
+    21300066: awesome_pot__x1_tool_animation_png_1354830341_33
+    21300068: awesome_pot__x1_tool_animation_png_1354830341_34
+    21300070: awesome_pot__x1_tool_animation_png_1354830341_35
+    21300072: awesome_pot__x1_tool_animation_png_1354830341_36
+    21300074: awesome_pot__x1_tool_animation_png_1354830341_37
+    21300076: awesome_pot__x1_tool_animation_png_1354830341_38
+    21300078: awesome_pot__x1_tool_animation_png_1354830341_39
+    21300080: awesome_pot__x1_tool_animation_png_1354830341_40
+    21300082: awesome_pot__x1_tool_animation_png_1354830341_41
+    21300084: awesome_pot__x1_tool_animation_png_1354830341_42
+    21300086: awesome_pot__x1_tool_animation_png_1354830341_43
+    21300088: awesome_pot__x1_tool_animation_png_1354830341_44
+    21300090: awesome_pot__x1_tool_animation_png_1354830341_45
+    21300092: awesome_pot__x1_tool_animation_png_1354830341_46
+    21300094: awesome_pot__x1_tool_animation_png_1354830341_47
+    21300096: awesome_pot__x1_tool_animation_png_1354830341_48
+    21300098: awesome_pot__x1_tool_animation_png_1354830341_49
+    21300100: awesome_pot__x1_tool_animation_png_1354830341_50
+    21300102: awesome_pot__x1_tool_animation_png_1354830341_51
+    21300104: awesome_pot__x1_tool_animation_png_1354830341_52
+    21300106: awesome_pot__x1_tool_animation_png_1354830341_53
+    21300108: awesome_pot__x1_tool_animation_png_1354830341_54
+    21300110: awesome_pot__x1_tool_animation_png_1354830341_55
+    21300112: awesome_pot__x1_tool_animation_png_1354830341_56
+    21300114: awesome_pot__x1_tool_animation_png_1354830341_57
+    21300116: awesome_pot__x1_tool_animation_png_1354830341_58
+    21300118: awesome_pot__x1_tool_animation_png_1354830341_59
+    21300120: awesome_pot__x1_tool_animation_png_1354830341_60
+    21300122: awesome_pot__x1_tool_animation_png_1354830341_61
+    21300124: awesome_pot__x1_tool_animation_png_1354830341_62
+    21300126: awesome_pot__x1_tool_animation_png_1354830341_63
+    21300128: awesome_pot__x1_tool_animation_png_1354830341_64
+    21300130: awesome_pot__x1_tool_animation_png_1354830341_65
+    21300132: awesome_pot__x1_tool_animation_png_1354830341_66
+    21300134: awesome_pot__x1_tool_animation_png_1354830341_67
+    21300136: awesome_pot__x1_tool_animation_png_1354830341_68
+    21300138: awesome_pot__x1_tool_animation_png_1354830341_69
+    21300140: awesome_pot__x1_tool_animation_png_1354830341_70
+    21300142: awesome_pot__x1_tool_animation_png_1354830341_71
+    21300144: awesome_pot__x1_tool_animation_png_1354830341_72
+    21300146: awesome_pot__x1_tool_animation_png_1354830341_73
+    21300148: awesome_pot__x1_tool_animation_png_1354830341_74
+    21300150: awesome_pot__x1_tool_animation_png_1354830341_75
+    21300152: awesome_pot__x1_tool_animation_png_1354830341_76
+    21300154: awesome_pot__x1_tool_animation_png_1354830341_77
+    21300156: awesome_pot__x1_tool_animation_png_1354830341_78
+    21300158: awesome_pot__x1_tool_animation_png_1354830341_79
+    21300160: awesome_pot__x1_tool_animation_png_1354830341_80
+    21300162: awesome_pot__x1_tool_animation_png_1354830341_81
+    21300164: awesome_pot__x1_tool_animation_png_1354830341_82
+    21300166: awesome_pot__x1_tool_animation_png_1354830341_83
+    21300168: awesome_pot__x1_tool_animation_png_1354830341_84
+    21300170: awesome_pot__x1_tool_animation_png_1354830341_85
+    21300172: awesome_pot__x1_tool_animation_png_1354830341_86
+    21300174: awesome_pot__x1_tool_animation_png_1354830341_87
+    21300176: awesome_pot__x1_tool_animation_png_1354830341_88
+    21300178: awesome_pot__x1_tool_animation_png_1354830341_89
+    21300180: awesome_pot__x1_tool_animation_png_1354830341_90
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333298
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: awesome_pot__x1_tool_animation_png_1354830341_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 576
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 576
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 576
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 576
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 576
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 576
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_7
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 576
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 576
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_9
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 576
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_10
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 576
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_11
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 576
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 576
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 480
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 480
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 480
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 480
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_18
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 480
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 480
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_20
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 480
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_21
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 480
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_22
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 480
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_23
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 480
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_24
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 480
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_25
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 480
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 384
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 384
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 384
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 384
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 384
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 384
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_33
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 384
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_34
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 384
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_35
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 384
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_36
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 384
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_37
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 384
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_38
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 384
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 288
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 288
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 288
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_43
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 288
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_44
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 288
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_45
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 288
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_46
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 288
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_47
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 288
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_48
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 288
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_49
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 288
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_50
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 288
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_51
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 288
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_53
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 192
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_54
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 192
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_55
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 192
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_56
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 192
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 192
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_59
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 192
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_60
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 192
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_61
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 192
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_62
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 192
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_63
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 192
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_64
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 192
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_66
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 96
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_67
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 96
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_68
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 96
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_69
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_70
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 96
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_71
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 96
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_72
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 96
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_73
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 96
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_74
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 96
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_75
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 96
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_76
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 96
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_77
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 96
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_79
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_80
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_81
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_83
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_84
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_85
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_86
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_87
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_88
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_89
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 0
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: awesome_pot__x1_tool_animation_png_1354830341_90
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

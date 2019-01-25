@@ -1,0 +1,3974 @@
+fileFormatVersion: 2
+guid: deb02ba23265b9947a65c7b2595f7234
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_0
+    21300002: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_1
+    21300004: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_2
+    21300006: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_3
+    21300008: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_4
+    21300010: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_5
+    21300012: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_6
+    21300014: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_7
+    21300016: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_8
+    21300018: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_9
+    21300020: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_10
+    21300022: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_11
+    21300024: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_12
+    21300026: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_13
+    21300028: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_14
+    21300030: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_15
+    21300032: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_16
+    21300034: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_17
+    21300036: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_18
+    21300038: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_19
+    21300040: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_20
+    21300042: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_21
+    21300044: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_22
+    21300046: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_23
+    21300048: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_24
+    21300050: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_25
+    21300052: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_26
+    21300054: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_27
+    21300056: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_28
+    21300058: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_29
+    21300060: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_30
+    21300062: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_31
+    21300064: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_32
+    21300066: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_33
+    21300068: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_34
+    21300070: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_35
+    21300072: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_36
+    21300074: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_37
+    21300076: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_38
+    21300078: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_39
+    21300080: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_40
+    21300082: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_41
+    21300084: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_42
+    21300086: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_43
+    21300088: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_44
+    21300090: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_45
+    21300092: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_46
+    21300094: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_47
+    21300096: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_48
+    21300098: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_49
+    21300100: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_50
+    21300102: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_51
+    21300104: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_52
+    21300106: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_53
+    21300108: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_54
+    21300110: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_55
+    21300112: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_56
+    21300114: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_57
+    21300116: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_58
+    21300118: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_59
+    21300120: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_60
+    21300122: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_61
+    21300124: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_62
+    21300126: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_63
+    21300128: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_64
+    21300130: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_65
+    21300132: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_66
+    21300134: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_67
+    21300136: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_68
+    21300138: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_69
+    21300140: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_70
+    21300142: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_71
+    21300144: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_72
+    21300146: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_73
+    21300148: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_74
+    21300150: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_75
+    21300152: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_76
+    21300154: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_77
+    21300156: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_78
+    21300158: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_79
+    21300160: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_80
+    21300162: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_81
+    21300164: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_82
+    21300166: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_83
+    21300168: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_84
+    21300170: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_85
+    21300172: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_86
+    21300174: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_87
+    21300176: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_88
+    21300178: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_89
+    21300180: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_90
+    21300182: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_91
+    21300184: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_92
+    21300186: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_93
+    21300188: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_94
+    21300190: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_95
+    21300192: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_96
+    21300194: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_97
+    21300196: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_98
+    21300198: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_99
+    21300200: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_100
+    21300202: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_101
+    21300204: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_102
+    21300206: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_103
+    21300208: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_104
+    21300210: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_105
+    21300212: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_106
+    21300214: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_107
+    21300216: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_108
+    21300218: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_109
+    21300220: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_110
+    21300222: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_111
+    21300224: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_112
+    21300226: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_113
+    21300228: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_114
+    21300230: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_115
+    21300232: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_116
+    21300234: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_117
+    21300236: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_118
+    21300238: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_119
+    21300240: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_120
+    21300242: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_121
+    21300244: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_122
+    21300246: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_123
+    21300248: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_124
+    21300250: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_125
+    21300252: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_126
+    21300254: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_127
+    21300256: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_128
+    21300258: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_129
+    21300260: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_130
+    21300262: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_131
+    21300264: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_132
+    21300266: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_133
+    21300268: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_134
+    21300270: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_135
+    21300272: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_136
+    21300274: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_137
+    21300276: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_138
+    21300278: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_139
+    21300280: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_140
+    21300282: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_141
+    21300284: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_142
+    21300286: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_143
+    21300288: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_144
+    21300290: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_145
+    21300292: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_146
+    21300294: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_147
+    21300296: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_148
+    21300298: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_149
+    21300300: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_150
+    21300302: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_151
+    21300304: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_152
+    21300306: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_153
+    21300308: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_154
+    21300310: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_155
+    21300312: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_156
+    21300314: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_157
+    21300316: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_158
+    21300318: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_159
+    21300320: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_160
+    21300322: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_161
+    21300324: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_162
+    21300326: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_163
+    21300328: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_164
+    21300330: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_165
+    21300332: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_166
+    21300334: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_167
+    21300336: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_168
+    21300338: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_169
+    21300340: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_170
+    21300342: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_171
+    21300344: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_172
+    21300346: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_173
+    21300348: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_174
+    21300350: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_175
+    21300352: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_176
+    21300354: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_177
+    21300356: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_178
+    21300358: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_179
+    21300360: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_180
+    21300362: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_181
+    21300364: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_182
+    21300366: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_183
+    21300368: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_184
+    21300370: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_185
+    21300372: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_186
+    21300374: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_187
+    21300376: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_188
+    21300378: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_189
+    21300380: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_190
+    21300382: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_191
+    21300384: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_192
+    21300386: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_193
+    21300388: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_194
+    21300390: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_195
+    21300392: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_196
+    21300394: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_197
+    21300396: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_198
+    21300398: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_199
+    21300400: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_200
+    21300402: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_201
+    21300404: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_202
+    21300406: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_203
+    21300408: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_204
+    21300410: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_205
+    21300412: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_206
+    21300414: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_207
+    21300416: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_208
+    21300418: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_209
+    21300420: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_210
+    21300422: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_211
+    21300424: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_212
+    21300426: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_213
+    21300428: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_214
+    21300430: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_215
+    21300432: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_216
+    21300434: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_217
+    21300436: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_218
+    21300438: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_219
+    21300440: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_220
+    21300442: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_221
+    21300444: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_222
+    21300446: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_223
+    21300448: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_224
+    21300450: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_225
+    21300452: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_226
+    21300454: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_227
+    21300456: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_228
+    21300458: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_229
+    21300460: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_230
+    21300462: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_231
+    21300464: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_232
+    21300466: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_233
+    21300468: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_234
+    21300470: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_235
+    21300472: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_236
+    21300474: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_237
+    21300476: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_238
+    21300478: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_239
+    21300480: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_240
+    21300482: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_241
+    21300484: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_242
+    21300486: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_243
+    21300488: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_244
+    21300490: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_245
+    21300492: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_246
+    21300494: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_247
+    21300496: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_248
+    21300498: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_249
+    21300500: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_250
+    21300502: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_251
+    21300504: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_252
+    21300506: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_253
+    21300508: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_254
+    21300510: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_255
+    21300512: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_256
+    21300514: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_257
+    21300516: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_258
+    21300518: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_259
+    21300520: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_260
+    21300522: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_261
+    21300524: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_262
+    21300526: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_263
+    21300528: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_264
+    21300530: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_265
+    21300532: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_266
+    21300534: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_267
+    21300536: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_268
+    21300538: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_269
+    21300540: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_270
+    21300542: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_271
+    21300544: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_272
+    21300546: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_273
+    21300548: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_274
+    21300550: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_275
+    21300552: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_276
+    21300554: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_277
+    21300556: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_278
+    21300558: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_279
+    21300560: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_280
+    21300562: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_281
+    21300564: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_282
+    21300566: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_283
+    21300568: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_284
+    21300570: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_285
+    21300572: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_286
+    21300574: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_287
+    21300576: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_288
+    21300578: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_289
+    21300580: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_290
+    21300582: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_291
+    21300584: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_292
+    21300586: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_293
+    21300588: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_294
+    21300590: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_295
+    21300592: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_296
+    21300594: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_297
+    21300596: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_298
+    21300598: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_299
+    21300600: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_300
+    21300602: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_301
+    21300604: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_302
+    21300606: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_303
+    21300608: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_304
+    21300610: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_305
+    21300612: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_306
+    21300614: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_307
+    21300616: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_308
+    21300618: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_309
+    21300620: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_310
+    21300622: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_311
+    21300624: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_312
+    21300626: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_313
+    21300628: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_314
+    21300630: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_315
+    21300632: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_316
+    21300634: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_317
+    21300636: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_318
+    21300638: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_319
+    21300640: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_320
+    21300642: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_321
+    21300644: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_322
+    21300646: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_323
+    21300648: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_324
+    21300650: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_325
+    21300652: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_326
+    21300654: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_327
+    21300656: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_328
+    21300658: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_329
+    21300660: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_330
+    21300662: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_331
+    21300664: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_332
+    21300666: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_333
+    21300668: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_334
+    21300670: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_335
+    21300672: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_336
+    21300674: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_337
+    21300676: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_338
+    21300678: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_339
+    21300680: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_340
+    21300682: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_341
+    21300684: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_342
+    21300686: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_343
+    21300688: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_344
+    21300690: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_345
+    21300692: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_346
+    21300694: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_347
+    21300696: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_348
+    21300698: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_349
+    21300700: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_350
+    21300702: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_351
+    21300704: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_352
+    21300706: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_353
+    21300708: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_354
+    21300710: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_355
+    21300712: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_356
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333298
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_4
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_5
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_6
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_7
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_8
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_9
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_10
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_11
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_12
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_13
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_14
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_15
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_16
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_17
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_18
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_19
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_20
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 3680
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_23
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_24
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_25
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_26
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_27
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_28
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_29
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_30
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_31
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_32
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_33
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_34
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_35
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_36
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_37
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_38
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_39
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_40
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_41
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 3450
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_43
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_44
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_45
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_46
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_47
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_48
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_49
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_50
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_51
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_52
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_53
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_54
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_55
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_56
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_57
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_58
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_59
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_60
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_61
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_62
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 3220
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_64
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_65
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_66
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_67
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_68
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_69
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_70
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_71
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_72
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_73
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_74
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_75
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_76
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_77
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_78
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_79
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_80
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_81
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_82
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_83
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2990
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_85
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_86
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_87
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_88
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_89
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_90
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_91
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_92
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_93
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_94
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_95
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_96
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_97
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_98
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_99
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_100
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_101
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_102
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_103
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_104
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2760
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_106
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_107
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_108
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_109
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_110
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_111
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_112
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_113
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_114
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_115
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_116
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_117
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_118
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_119
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_120
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_121
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_122
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_123
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_124
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_125
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2530
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_127
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_128
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_129
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_130
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_131
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_132
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_133
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_134
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_135
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_136
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_137
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_138
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_139
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_140
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_141
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_142
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_143
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_144
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_145
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_146
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2300
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_148
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_149
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_150
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_151
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_152
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_153
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_154
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_155
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_156
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_157
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_158
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_159
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_160
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_161
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_162
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_163
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_164
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_165
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_166
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_167
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2070
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_169
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_170
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_171
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_172
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_173
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_174
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_175
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_176
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_177
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_178
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_179
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_180
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_181
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_182
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_183
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_184
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_185
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_186
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_187
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_188
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1840
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_190
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_191
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_192
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_193
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_194
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_195
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_196
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_197
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_198
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_199
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_200
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_201
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_202
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_203
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_204
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_205
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_206
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_207
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_208
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_209
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1610
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_211
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_212
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_213
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_214
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_215
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_216
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_217
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_218
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_219
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_220
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_221
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_222
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_223
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_224
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_225
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_226
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_227
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_228
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_229
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_230
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1380
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_232
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_233
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_234
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_235
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_236
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_237
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_238
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_239
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_240
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_241
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_242
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_243
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_244
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_245
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_246
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_247
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_248
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_249
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_250
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_251
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1150
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_253
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_254
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_255
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_256
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_257
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_258
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_259
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_260
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_261
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_262
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_263
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_264
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_265
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_266
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_267
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_268
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_269
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_270
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_271
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_272
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_273
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_274
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_275
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_276
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_277
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_278
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_279
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_280
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_281
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_282
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_283
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_284
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_285
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_286
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_287
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_288
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_289
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_290
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_291
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_292
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_293
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_294
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_295
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_296
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_297
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_298
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_299
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_300
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_301
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_302
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_303
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_304
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_305
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_306
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_307
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_308
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_309
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_310
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_311
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_312
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_313
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_314
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_315
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_316
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_317
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_318
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_319
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_320
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_321
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_322
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_323
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_324
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_325
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_326
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_327
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_328
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_329
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_330
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_331
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_332
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_333
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_334
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_335
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_336
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_337
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_338
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_339
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_340
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_341
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_342
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_343
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_344
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_345
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_346
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_347
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_348
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_349
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_350
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_351
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_352
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_353
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_354
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_355
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cooking_vendor__x1_idle_stand_part1_png_1354831629_356
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

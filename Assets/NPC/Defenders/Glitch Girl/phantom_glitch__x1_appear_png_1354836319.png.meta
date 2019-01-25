@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: 9bcd463fa03168f409bf19d5a25b06be
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: phantom_glitch__x1_appear_png_1354836319_0
+    21300002: phantom_glitch__x1_appear_png_1354836319_1
+    21300004: phantom_glitch__x1_appear_png_1354836319_2
+    21300006: phantom_glitch__x1_appear_png_1354836319_3
+    21300008: phantom_glitch__x1_appear_png_1354836319_4
+    21300010: phantom_glitch__x1_appear_png_1354836319_5
+    21300012: phantom_glitch__x1_appear_png_1354836319_6
+    21300014: phantom_glitch__x1_appear_png_1354836319_7
+    21300016: phantom_glitch__x1_appear_png_1354836319_8
+    21300018: phantom_glitch__x1_appear_png_1354836319_9
+    21300020: phantom_glitch__x1_appear_png_1354836319_10
+    21300022: phantom_glitch__x1_appear_png_1354836319_11
+    21300024: phantom_glitch__x1_appear_png_1354836319_12
+    21300026: phantom_glitch__x1_appear_png_1354836319_13
+    21300028: phantom_glitch__x1_appear_png_1354836319_14
+    21300030: phantom_glitch__x1_appear_png_1354836319_15
+    21300032: phantom_glitch__x1_appear_png_1354836319_16
+    21300034: phantom_glitch__x1_appear_png_1354836319_17
+    21300036: phantom_glitch__x1_appear_png_1354836319_18
+    21300038: phantom_glitch__x1_appear_png_1354836319_19
+    21300040: phantom_glitch__x1_appear_png_1354836319_20
+    21300042: phantom_glitch__x1_appear_png_1354836319_21
+    21300044: phantom_glitch__x1_appear_png_1354836319_22
+    21300046: phantom_glitch__x1_appear_png_1354836319_23
+    21300048: phantom_glitch__x1_appear_png_1354836319_24
+    21300050: phantom_glitch__x1_appear_png_1354836319_25
+    21300052: phantom_glitch__x1_appear_png_1354836319_26
+    21300054: phantom_glitch__x1_appear_png_1354836319_27
+    21300056: phantom_glitch__x1_appear_png_1354836319_28
+    21300058: phantom_glitch__x1_appear_png_1354836319_29
+    21300060: phantom_glitch__x1_appear_png_1354836319_30
+    21300062: phantom_glitch__x1_appear_png_1354836319_31
+    21300064: phantom_glitch__x1_appear_png_1354836319_32
+    21300066: phantom_glitch__x1_appear_png_1354836319_33
+    21300068: phantom_glitch__x1_appear_png_1354836319_34
+    21300070: phantom_glitch__x1_appear_png_1354836319_35
+    21300072: phantom_glitch__x1_appear_png_1354836319_36
+    21300074: phantom_glitch__x1_appear_png_1354836319_37
+    21300076: phantom_glitch__x1_appear_png_1354836319_38
+    21300078: phantom_glitch__x1_appear_png_1354836319_39
+    21300080: phantom_glitch__x1_appear_png_1354836319_40
+    21300082: phantom_glitch__x1_appear_png_1354836319_41
+    21300084: phantom_glitch__x1_appear_png_1354836319_42
+    21300086: phantom_glitch__x1_appear_png_1354836319_43
+    21300088: phantom_glitch__x1_appear_png_1354836319_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333298
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: phantom_glitch__x1_appear_png_1354836319_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1498
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1498
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1498
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1498
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_4
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1498
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_8
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_9
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_10
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_14
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_15
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_16
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_20
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_21
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_22
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_26
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_27
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_28
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_31
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_32
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_33
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_36
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_37
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_38
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_39
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_40
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_42
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_43
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phantom_glitch__x1_appear_png_1354836319_44
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
